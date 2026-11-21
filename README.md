@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4ttF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Web-Agents-Automated-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Web-Agents-Automated-Testing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Web-Agents-Automated-Testing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Web-Agents-Automated-Testing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Web-Agents-Automated-Testing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Web-Agents-Automated-Testing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Web-Agents-Automated-Testing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,63 +68,63 @@ The global test automation market is estimated at **$33B–$34B** (projected to 
 
 ### ⭐ Open-Source Leaderboard (Ranked by Stars)
 
-Every repository below is linked with an active GitHub stargazer badge (`style=social` & `color=white`) directing straight to its stargazers community, sorted strictly in descending order of star count.
+Every repository below is linked with an active GitHub stargazer badge (`style=social` & `color=white`) directing straight to its stargazers community, sorted strictly in descending order of Stars_Count.
 
-1. **[stablyai/orca](https://github.com/stablyai/orca)** [![GitHub stars](https://img.shields.io/github/stars/stablyai/orca?style=social&color=white)](https://github.com/stablyai/orca/stargazers)  
+1. **[stablyai/orca](https://github.com/stablyai/orca)** [![GitHub_Stars](https://img.shields.io/github/stars/stablyai/orca?style=social&color=white)](https://github.com/stablyai/orca/stargazers)  
    🧠 Autonomous web agent and AI-powered browser testing framework engineered to explore web applications, generate resilient E2E tests, and automate browser interactions without manual selector maintenance.
 
-2. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+2. **[browser-use/browser-use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
    🤖 Leading open-source Python framework connecting LLMs and Vision-Language Models with Playwright to automate multi-tab web navigation, form testing, click flows, and QA automation.
 
-3. **[microsoft/playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+3. **[microsoft/playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    🎭 Flagship cross-browser open-source end-to-end testing and browser automation framework for Chromium, Firefox, and WebKit featuring auto-waiting, network mocking, trace viewing, and codegen.
 
-4. **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
+4. **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub_Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
    🎪 Official open-source Node.js library providing high-level control over Chrome and Firefox via the Chrome DevTools Protocol (CDP) and WebDriver BiDi.
 
-5. **[OpenHands/OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+5. **[OpenHands/OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub_Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
    🙌 Fully autonomous open-source software development agent platform capable of launching headless browsers, executing full-stack E2E tests, diagnosing frontend bugs, and writing self-healing test fixes.
 
-6. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** [![GitHub stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=social&color=white)](https://github.com/vercel-labs/agent-browser/stargazers)  
+6. **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)** [![GitHub_Stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=social&color=white)](https://github.com/vercel-labs/agent-browser/stargazers)  
    ⚡ Lightweight, headless accessibility-tree and DOM browser automation tool designed specifically for LLM and coding agents to reliably interact with web applications.
 
-7. **[cypress-io/cypress](https://github.com/cypress-io/cypress)** [![GitHub stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)  
+7. **[cypress-io/cypress](https://github.com/cypress-io/cypress)** [![GitHub_Stars](https://img.shields.io/github/stars/cypress-io/cypress?style=social&color=white)](https://github.com/cypress-io/cypress/stargazers)  
    🌲 Fast, developer-friendly open-source end-to-end testing and component testing framework running directly inside the browser with time-travel debugging.
 
-8. **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social&color=white)](https://github.com/microsoft/playwright-mcp/stargazers)  
+8. **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social&color=white)](https://github.com/microsoft/playwright-mcp/stargazers)  
    🔌 Official Model Context Protocol (MCP) server providing LLMs and autonomous agents with direct, standardized tools for browser automation, web testing, snapshotting, and navigation.
 
-9. **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)  
+9. **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub_Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)  
    🌐 Industry-standard open-source W3C WebDriver browser automation suite and distributed multi-node execution grid (`Selenium Grid`) for parallel cross-browser regression testing.
 
-10. **[apify/crawlee](https://github.com/apify/crawlee)** [![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
+10. **[apify/crawlee](https://github.com/apify/crawlee)** [![GitHub_Stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
     🕷️ Open-source web scraping and browser automation library for Node.js and Python with built-in proxy rotation, fingerprint spoofing, and automatic Playwright/Puppeteer session management.
 
-11. **[browserbase/stagehand](https://github.com/browserbase/stagehand)** [![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social&color=white)](https://github.com/browserbase/stagehand/stargazers)  
+11. **[browserbase/stagehand](https://github.com/browserbase/stagehand)** [![GitHub_Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social&color=white)](https://github.com/browserbase/stagehand/stargazers)  
     🖐️ Open-source AI web browsing and testing SDK built on Playwright blending deterministic scripts with self-healing natural-language `act`, `extract`, and `observe` primitives.
 
-12. **[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)** [![GitHub stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social&color=white)](https://github.com/Skyvern-AI/skyvern/stargazers)  
+12. **[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)** [![GitHub_Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social&color=white)](https://github.com/Skyvern-AI/skyvern/stargazers)  
     🦅 Open-source computer vision & LLM-driven browser automation agent that navigates complex, dynamic web UIs and executes multi-step workflows without brittle XPath/CSS selectors.
 
-13. **[web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)** [![GitHub stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=social&color=white)](https://github.com/web-infra-dev/midscene/stargazers)  
+13. **[web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)** [![GitHub_Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=social&color=white)](https://github.com/web-infra-dev/midscene/stargazers)  
     🎨 Open-source multimodal Vision-Language Model UI automation and testing SDK enabling natural-language actions, data extraction, and visual assertions in Playwright and Puppeteer.
 
-14. **[browserless/browserless](https://github.com/browserless/browserless)** [![GitHub stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers)  
+14. **[browserless/browserless](https://github.com/browserless/browserless)** [![GitHub_Stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers)  
     🐳 Self-hosted open-source Docker container service for running, scaling, and debugging headless Chrome, Playwright, and Puppeteer sessions in CI/CD automation pipelines.
 
-15. **[daijro/camoufox](https://github.com/daijro/camoufox)** [![GitHub stars](https://img.shields.io/github/stars/daijro/camoufox?style=social&color=white)](https://github.com/daijro/camoufox/stargazers)  
+15. **[daijro/camoufox](https://github.com/daijro/camoufox)** [![GitHub_Stars](https://img.shields.io/github/stars/daijro/camoufox?style=social&color=white)](https://github.com/daijro/camoufox/stargazers)  
     🦊 Stealthy anti-detect headless Firefox browser configured with automated fingerprint spoofing and WebGL spoofing for testing bot-protected staging and QA environments.
 
-16. **[steel-dev/steel-browser](https://github.com/steel-dev/steel-browser)** [![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social&color=white)](https://github.com/steel-dev/steel-browser/stargazers)  
+16. **[steel-dev/steel-browser](https://github.com/steel-dev/steel-browser)** [![GitHub_Stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social&color=white)](https://github.com/steel-dev/steel-browser/stargazers)  
     🛡️ Open-source, self-hostable headless browser sandbox and API built specifically for AI web agents, supporting persistent browser sessions, proxy chaining, and extensions.
 
-17. **[lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)** [![GitHub stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)  
+17. **[lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)** [![GitHub_Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)  
     🌊 Open-source Large Action Model (LAM) framework combining World Models and Action Engines to translate natural-language testing goals into executable Playwright/Selenium code.
 
-18. **[ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)** [![GitHub stars](https://img.shields.io/github/stars/ultrafunkamsterdam/nodriver?style=social&color=white)](https://github.com/ultrafunkamsterdam/nodriver/stargazers)  
+18. **[ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)** [![GitHub_Stars](https://img.shields.io/github/stars/ultrafunkamsterdam/nodriver?style=social&color=white)](https://github.com/ultrafunkamsterdam/nodriver/stargazers)  
     ⚡ Ultra-fast Python browser automation library that speaks directly to Chrome DevTools Protocol without requiring Selenium WebDriver or chromedriver binaries.
 
-19. **[web-arena-x/webarena](https://github.com/web-arena-x/webarena)** [![GitHub stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=social&color=white)](https://github.com/web-arena-x/webarena/stargazers)  
+19. **[web-arena-x/webarena](https://github.com/web-arena-x/webarena)** [![GitHub_Stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=social&color=white)](https://github.com/web-arena-x/webarena/stargazers)  
     🏟️ Realistic, self-hosted web environment benchmark suite (e-commerce, forums, GitLab, maps) used to evaluate end-to-end task completion and reliability of autonomous web agents.
 
 ---
@@ -136,7 +136,7 @@ We love community contributions! To add a new platform or open-source tool:
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/edit** entries in `README.md` following the existing format.
    - For SaaS tools: ensure pricing and free limits are specific and concrete.
-   - For Open-Source tools: include the repository star badge (`style=social&color=white`) linking to its stargazers page, positioned according to star ranking.
+   - For Open-Source tools: include the repository Stars_Badge (`style=social&color=white`) linking to its stargazers page, positioned according to star ranking.
 3. 🚀 **Submit a Pull Request** with a brief summary explaining the project.
 
 ---
