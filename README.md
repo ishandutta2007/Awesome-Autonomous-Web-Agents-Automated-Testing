@@ -30,73 +30,36 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global test automation market is estimated at **$33B–$34B** (projected to reach **$80B–$100B+** by the early 2030s), while the autonomous AI agent market is valued at **$4.5B–$5.9B** and growing at over 30% CAGR toward **$50B+**. The sector is currently **highly fragmented**, characterized by legacy enterprise testing grids (e.g., BrowserStack, Sauce Labs) actively competing with a fast-growing wave of AI-native browser infrastructure and agentic startups, rather than a concentrated winner-take-all environment.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Browserbase](https://browserbase.com)**  
-
-  Cloud serverless headless browser platform engineered for AI web agents and automated testing, offering session replay, stealth proxies, and live debugging.
-
-
-
-- **[MultiOn](https://multion.ai)**  
-
-  Cloud-hosted AI web-browsing agent API capable of autonomously navigating dynamic web interfaces, executing user flows, and completing multi-step online actions.
-
-
-
-- **[Hyperbrowser](https://hyperbrowser.ai)**  
-
-  Managed cloud browser infrastructure designed for scaling parallel AI web agents, Playwright/Puppeteer test suites, and automated web workflows.
-
-
-
-- **[Playwright Cloud (Microsoft Playwright Workspaces / Azure App Testing)](https://playwright.dev)**  
-
-  Managed cloud service for executing high-concurrency, cross-browser Playwright end-to-end test suites across Chromium, Firefox, and WebKit.
-
-
-
-- **[Puppeteer Cloud (Browserless / Apify Managed Cloud)](https://browserless.io)**  
-
-  Hosted cloud Chrome/Puppeteer grid providing instant WebSocket endpoints, automated scaling, CAPTCHA handling, and session recording for E2E tests.
-
-
-
-- **[Steel.dev (Hosted Cloud)](https://steel.dev)**  
-
-  Managed cloud tier of the open-source Steel browser sandbox delivering stateful, isolated headless browser sessions tailored for AI web agents.
-
-
-
-- **[Scrapfly](https://scrapfly.io)**  
-
-  Cloud headless browser rendering and web extraction API featuring anti-bot bypass, residential proxies, JavaScript execution, and structured data output.
-
-
-
-- **[ScrapingBee](https://scrapingbee.com)**  
-
-  Managed headless Chrome API automating proxy rotation, dynamic SPA rendering, and browser script execution for web testing and data collection.
-
-
-
-- **[BrowserStack Automate & Sauce Labs](https://browserstack.com)**  
-
-  Enterprise cloud Selenium, Playwright, and Cypress testing grids providing instant access to thousands of real desktop and mobile browser combinations.
+| Platform | Company Scale (Valuation / Revenue) | Description | Pricing (Starting Tier) | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[BrowserStack Automate](https://browserstack.com)** | Valuation: ~$4.0B / Revenue: ~$230M ARR | Enterprise cloud testing grid for real desktop and mobile browser combinations running Selenium, Playwright, and Cypress. | $129/mo (or $99/mo billed annually) for 1 parallel test | 60 minutes free trial for automated testing (single session max: 1 hr) |
+| **[Playwright Cloud (Azure App Testing)](https://playwright.dev)** | Parent Market Cap: ~$3.1T (Microsoft) | Managed cloud infrastructure for high-concurrency cross-browser Playwright test runs across Chromium, Firefox, and WebKit. | $0.01/test minute (Linux) / $0.02/test minute (Windows) pay-as-you-go | 30-day free trial with 100 test minutes included on first workspace |
+| **[Browserbase](https://browserbase.com)** | Valuation: $300M (Series B) / Revenue: ~$3.6M ARR | Cloud serverless headless browser platform for AI agents and E2E testing with session replay, proxies, and live debugging. | Developer Plan: $20/month (includes 100 browser-hours, 25 concurrent sessions) | Forever free: 1 browser-hour, 3 concurrent sessions, 15-min session limit, 7-day data retention |
+| **[Sauce Labs](https://saucelabs.com)** | Valuation: ~$250M–$500M / Revenue: ~$92M ARR | Scalable cloud testing infrastructure for cross-browser, mobile app, and automated regression suites. | Live/Automate entry starts at $49/mo (or $39/mo billed annually) | 28-day free trial with 100 minutes of automated testing |
+| **[MultiOn](https://multion.ai)** | Valuation / Exit: $100M valuation ($20M round; $1.1B reported acquisition) | Cloud-hosted AI web-browsing agent API that navigates dynamic interfaces and performs autonomous multi-step actions. | Pro Plan: $20/month (developer API metered pay-as-you-go per session/action) | Free tier: Basic Chrome extension & playground access with capped agent runs and community support |
+| **[ScrapingBee](https://scrapingbee.com)** | Valuation / Exit: 8-figure acquisition (~$10M–$20M+) / Revenue: ~$5M ARR | Managed headless Chrome API automating proxy rotation, JS rendering, and browser script execution for web automation. | Freelance Plan: $49/month (includes 250,000 API credits, 10 concurrent requests) | Free trial: 1,000 API credits (one-time grant, no credit card required) |
+| **[Apify Managed Cloud](https://apify.com)** | Funding: ~$3.5M raised / Revenue: ~$13.3M ARR | Cloud platform and marketplace for running scalable headless Playwright/Puppeteer automation, scrapers, and web agents. | Starter Plan: $49/month (includes $49 platform credits and 32 GB memory limit) | Forever free: $5 free platform usage credits per month, 8 GB max actor memory |
+| **[Browserless](https://browserless.io)** | Revenue: ~$1.3M ARR (Bootstrapped) | Hosted cloud Chrome/Puppeteer/Playwright grid with WebSocket endpoints, proxy handling, and session recording. | Prototyping Plan: $25/month (billed annually, includes 20,000 units) | Forever free: 1,000 units/mo, 2 concurrent browsers, 2-minute max session duration |
+| **[Scrapfly](https://scrapfly.io)** | Revenue: ~$1M ARR (Bootstrapped / Self-funded) | Cloud headless browser rendering and web extraction API with anti-bot bypass and residential proxy pooling. | Aspire Plan: $30/month (includes 200,000 API credits) | Forever free: 1,000 API credits/month, hard-capped quota (no overage charges) |
+| **[Steel.dev](https://steel.dev)** | Funding: Early-stage VC-backed (<$10M) | Managed cloud browser sandbox built specifically for AI web agents with stateful sessions and anti-detect features. | Launch Plan: Pay-as-you-go at $0.10/browser hour + proxy bandwidth | Free to start: $30 in one-time usage credits (~300 browser hours) upon signup |
+| **[Hyperbrowser](https://hyperbrowser.ai)** | Funding: Early-stage (Y Combinator backed) | Managed cloud browser runtime tailored for scaling concurrent AI web agents and Playwright automation workflows. | Startup Plan: $30/month (includes 30,000 credits, 25 concurrent sessions) | Forever free: 5,000 credits (~50 browser hours), 1 concurrent session, 7-day data retention |
 
 
 
